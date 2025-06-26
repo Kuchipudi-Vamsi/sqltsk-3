@@ -1,4 +1,4 @@
-To retrieve specific data from a database using SQL. You will learn how to focus on relevant rows and columns, sort results, and limit output for better analysis.
+To retrieve specific data from a database using SQL. We will learn how to focus on relevant rows and columns, sort results, and limit output for better analysis.
 
 🔍 Step-by-Step Process:
 
@@ -43,8 +43,8 @@ FROM customers
 JOIN orders ON customers.id = orders.customer_id;
 
 ✅ Result:
-By combining SELECT, WHERE, ORDER BY, and LIMIT, you can:
-Retrieve only the data you need
+By combining SELECT, WHERE, ORDER BY, and LIMIT, we can:
+Retrieve only the data we need
 Filter and refine results
 Sort them logically
 Control how much data is displayed
